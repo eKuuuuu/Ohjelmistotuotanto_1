@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/DegreeLengthCalculator/pom.xml" />
         <option value="$PROJECT_DIR$/Week3_thursday/pom.xml" />
+        <option value="$PROJECT_DIR$/TemperatureConverter/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

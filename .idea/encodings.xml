@@ -3,5 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/DegreeLengthCalculator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DegreeLengthCalculator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TemperatureConverter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TemperatureConverter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week3_thursday/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week3_thursday/src/main/resources" charset="UTF-8" />
   </component>
 </project>
