@@ -8,7 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Account" />
         <module name="TemperatureConverter" />
-        <module name="Otp1" />
+        <module name="Week3_thursday" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
