@@ -6,12 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Account" />
         <module name="TemperatureConverter" />
         <module name="Week3_thursday" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Account" target="17" />
       <module name="DegreeLengthCalculator" target="23" />
     </bytecodeTargetLevel>
   </component>

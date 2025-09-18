@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Otp1,com.example,TemperatureConverter.isExtremeTemperature,0,27,0,6,0,4,0,5,0,2
+Otp1,com.example,TemperatureConverter.celsiusToFahrenheit,0,14,0,0,0,2,0,2,0,2
+Otp1,com.example,TemperatureConverter.fahrenheitToCelsius,0,14,0,0,0,2,0,2,0,2
+Otp1,com.example,TemperatureConverter.kelvinToCelcius,0,10,0,0,0,2,0,2,0,2
+Otp1,com.example,TemperatureConverter,0,3,0,0,0,1,0,1,0,1

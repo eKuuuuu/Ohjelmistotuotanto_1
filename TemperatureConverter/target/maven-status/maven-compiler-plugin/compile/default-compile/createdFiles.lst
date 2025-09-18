@@ -1,0 +1,5 @@
+com\example\TemperatureConverter$kelvinToCelcius.class
+com\example\TemperatureConverter$fahrenheitToCelsius.class
+com\example\TemperatureConverter$celsiusToFahrenheit.class
+com\example\TemperatureConverter$isExtremeTemperature.class
+com\example\TemperatureConverter.class
