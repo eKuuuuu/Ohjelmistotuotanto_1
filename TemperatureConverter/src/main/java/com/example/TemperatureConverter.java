@@ -1,6 +1,6 @@
 package com.example;
 
-public class TemperatureConverter {
+public class  TemperatureConverter {
     public class celsiusToFahrenheit {
         public double convert(double celsius) {
             return (celsius * 9/5) + 32;
@@ -10,6 +10,12 @@ public class TemperatureConverter {
     public class fahrenheitToCelsius {
         public double convert(double fahrenheit) {
             return (fahrenheit - 32) * 5/9;
+        }
+    }
+
+    public class kelvinToCelcius {
+        public double convert(double kelvin) {
+            return kelvin - 273.15;
         }
     }
 
